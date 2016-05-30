@@ -1,0 +1,442 @@
+
+#slides{
+width:87.5%;
+height:350px;
+z-index:100;
+padding:0px;
+margin-top:1em;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:1em;
+}
+.slidesjs-previous{
+position:relative;
+bottom:200px;
+z-index:100;
+}
+.slidesjs-next{
+position:relative;
+bottom:200px;
+left:650px;
+z-index:100;
+}
+@font-face{font-family:Unrealised;
+           src:url(Unrealised.ttf)}
+
+ul{
+list-style-type:none;
+}
+header a:visited , header a:link{
+font-size:1em;
+color:white;
+}
+a:visited ,a:link{
+font-size:1.5em;
+color:orange;
+}
+iframe{
+z-index:100;
+}
+
+
+
+header a:hover{
+background-color:grey;
+}
+
+header nav a:hover{
+background-color:white;
+color:black;
+}
+a{
+text-decoration:none;
+}
+
+
+body{
+margin:0px;
+padding:0px;
+font-family:Verdana,Georgia,Serif;
+background-color:#DDDDDD; 
+background-image:url("images/17.jpg");
+background-position:center top; 
+background-repeat:no-repeat;
+font-size:16px; /*DEFAULT FONT-SIZE */
+}
+
+#ahriBody{
+background-image:url("campioni/images/AhriClassic.jpg");
+}
+#garenBody{
+background-image:url("campioni/images/GarenClassic.jpg");
+}
+#YasuoBody{
+background-image:url("campioni/images/YasuoClassic.jpg");
+}
+
+
+#homeBody{
+margin:0px;
+padding:0px;
+background-image:none;
+font-family:Verdana,Georgia,Serif;
+background-color:#DDDDDD; 
+font-size:16px; /*DEFAULT FONT-SIZE */
+}
+
+
+
+#headPagina{
+z-index:100;
+font-family:Unrealised,Verdana,Georgia,Serif;
+padding:0px;
+width:100%;
+height:auto;
+font-size:1em;
+position:fixed;
+top:0px;
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+background-color:black;
+}
+
+nav{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+padding:0px;
+height:auto;
+width:500px;
+}
+
+nav ul{
+list-style-type:none;
+margin:0px;
+padding:0px;
+height:auto;
+}
+nav li{
+
+height:auto;
+margin:0px;
+padding:0px;
+display:inline-block;
+
+}
+nav a{
+display:inline-block;
+margin:0px;
+color:white;
+font-size:1em;
+text-align:center;
+padding-top:1em;
+padding-bottom:1em;
+padding-left:0em;
+padding-right:0em;
+width:100px; 
+
+
+}
+.bloc{
+z-index:100;
+padding:0px;
+margin:0px;
+position:absolute;
+width:100px;
+height:auto;
+background-color:black;
+text-align:center;
+}
+
+#spatiuPtPrimulHeader{
+width:100%;
+margin:0px;
+padding-bottom:15em;
+padding-top:0px;
+padding-left:0px;
+padding-right:0px;
+
+}
+
+
+.container{
+background-color:white;
+overflow:hidden;
+padding:0px;
+margin-top:1em;
+margin-bottom:2em;
+margin-left:auto;
+margin-right:auto;
+width:800px;
+height:auto;
+border:solid 1px black;
+}
+.header{
+overflow:hidden;
+margin:0px;
+padding:0px;
+width:100%;
+height:auto;
+
+}
+.titleContainer{
+overflow:hidden;
+font-weight:normal;
+margin:0px;
+padding:0px;
+width:100%;
+height:auto;
+
+}
+
+.titleElement{
+font-family:Unrealised,Verdana,Georgia,Serif;
+overflow:hidden;
+display:inline-block;
+margin:0px;
+width:100%;
+color:white;
+font-size:1em;
+text-align:center;
+padding-left:0px;
+padding-right:0px;
+padding-top:1em;
+padding-bottom:1em;
+background-color:black;
+}
+
+
+
+
+
+.bigContainer{
+height:auto;
+width:100%;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:2em;
+padding:0px;
+
+}
+
+.bigTitleContainer{
+font-weight:normal;
+font-family:Unrealised,Verdana,Georgia,Serif;
+width:100%;
+height:auto;
+color:white;
+text-align:center;
+}
+.bigTitleElement{
+margin:1em;
+font-size:5em;
+padding-left:0.2em;
+padding-right:0.2em;
+padding-top:0px;
+padding-bottom:0px;
+background-color:black;
+}
+
+
+
+
+
+.footerContainer{
+clear:both;
+overflow:hidden;
+margin:0px;
+padding:0px;
+padding-left:0px;
+padding-right:0px;
+padding-top:2em;
+padding-bottom:1em;
+background-color:black;
+color:white;
+}
+
+
+.SectionImbricat{
+margin:1em;
+border-bottom-style:solid;
+}
+
+
+
+
+.listaPoze{
+overflow:hidden;
+width:100%;
+height:auto;
+margin:0px;
+padding:0px;
+list-style-type:none;
+}
+.bigPict{
+display:block;
+height:auto;
+width:85%;
+padding:0px;
+margin-top:1em;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:1em;
+}
+.banner{
+
+display:block;
+height:225px; /* vreau sa arate ca un banner deci trebuie sa micsorez height*/
+width:85%;
+margin-left:auto;
+margin-right:auto;
+padding:0px;
+}
+
+.mediumPict{
+width:15%;
+}
+
+.smallPict{
+width:8%;
+}
+.SpotLight{
+margin:0em;
+width:42%;
+height:150px;
+float:right;
+
+}
+
+.Margine{
+margin:1em;
+}
+
+.freeWeek1{
+list-style-type:none;
+margin:0px;
+padding:0px;
+height:auto;
+}
+
+.freeWeek2{
+float:right;
+list-style-type:none;
+margin:0px;
+padding:0px;
+}
+
+.square{
+float:left;
+height:2em;
+}
+
+.squareText{
+display:inline-block;
+padding-top:0.5em;
+padding-bottom:1em;
+padding-left:0.5em;
+padding-right:0em;
+}
+
+label{
+display:inline-block;
+margin:1em;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:800px){
+	body{
+	font-size:0.60em;
+	}
+	#homeBody{
+	font-size:0.60em;
+	}
+	.container{
+	width:480px;
+	}
+	.banner{
+	height:160px;
+	}
+	.SpotLight{
+	height:110px;
+	}
+	nav{
+	width:298.8px
+	}
+	.bloc{
+	width:58.56px
+	}	
+	nav a{
+	width:58.56px
+	}
+.ui-autocomplete{
+max-height:234.24px     /*400px default*/
+}
+	#slides{
+height:208.8px;
+	}
+	
+.slidesjs-previous{
+bottom:120px;
+}
+.slidesjs-next{
+bottom:120px;
+left: 370px;
+}	
+}
+
+
+
+
+
+
+
+@media screen and (max-width:500px){
+body{
+font-size:0.50em;
+}
+#homeBody{
+font-size:0.50em;
+}
+.container{
+width:300px;
+}
+.banner{
+height:100px;
+}
+.SpotLight{
+height:75px;
+}
+nav{
+width:190px;
+}
+.bloc{
+width:38.6px
+}
+nav a{
+width:41px;
+}
+.ui-autocomplete{
+max-height:146.4px;     /*400px default*/
+}
+	#slides{
+height:131.25px;
+	}
+	
+.slidesjs-previous{
+bottom:75px;
+}
+.slidesjs-next{
+bottom:75px;
+left:210.25px;
+}	
+}
+

@@ -1,0 +1,45 @@
+1980x1080
+width x height
+container 1159.488
+
+- 1366 x 653 rezolutia cu care am lucrat. 13.66px = 1%
+container 800 58.56%
+nav width 500 px = 36.6%
+nav width 100 px = 7.32%
+velkoz 150 x 100  = 10.98%
+aatrox 250 x 200  =18.3%
+elise 300 x 200   =21.96%
+garen 300 x 200   =21.96%
+khazix 400 x 250  =29.28%
+lucian 250 x 150  =18.3%
+tryndamere 300 x 200 =21.96%
+vi 250 x 150  =18.3%
+yasuo 200 x 150 =14.64%
+zed 180 x 120 =13.17%
+autocomplet 400px height 29.28% din width
+slides 700px 87.5% width 
+slides  350 heigth 43.75%
+
+
+
+- WIDTH 800
+autocomplet 234.24px
+nav width 500=298.8px
+nav width 100=58.56px
+
+
+
+-WIDTH 500
+autocomplet 146.4px
+nav width 500=183px
+nav width 100=36.6px
+
+--container 800px
+slides position left  200px 25%
+slides position right 200px 650px ,25% 70.83%
+---container 480
+slides position left 120px  
+slides position right 120px 340px
+---container 300
+slides position left 75px
+slides position right 120px 210.25px

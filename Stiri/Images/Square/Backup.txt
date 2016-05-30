@@ -1,0 +1,14 @@
+	<ul class="freeWeek1">	
+		<li><img class="square" src="../images/square/Caitlyn.jpg"/> <span class="squareText">Caitlyn-4800 IP sau 880 RP</span> </li>
+		<li><img class="square" src="../images/square/Diana.jpg"/><span class="squareText">Diana-6300 IP sau 975 RP</li>
+		<li><img class="square" src="../images/square/Garen.jpg"/><span class="squareText">Garen-450 IP sau 260 RP</li>
+		<li><img class="square" src="../images/square/KhaZix.jpg"/><span class="squareText">Kha'Zix-6300 IP sau 975 RP</li>
+		<li><img class="square" src="../images/square/Leona.jpg"/><span class="squareText">Leona-4800 IP sau 880 RP</li>
+	</ul>
+	<ul class="freeWeek2">	
+		<li><img class="square" src="../images/square/Nami.jpg"/><span class="squareText">Nami-6300 IP sau 975 RP</li>
+		<li><img class="square" src="../images/square/Rengar.jpg"/><span class="squareText">Rengar-6300 IP sau 975 RP</li>
+		<li><img class="square" src="../images/square/Talon.jpg"/><span class="squareText">Talon-4800 IP sau 880 RP</li>
+		<li><img class="square" src="../images/square/TwistedFate.jpg"/><span class="squareText">Twisted Fate-1350 IP sau 585 RP</li>
+		<li><img class="square" src="../images/square/Twitch.jpg"/><span class="squareText">Twitch-3150 IP sau 790 RP</li>
+	</ul>

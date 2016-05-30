@@ -1,0 +1,7 @@
+containerele 60% din maxWidth cu pixeli calculati
+BIG PICTURES width 85% din widhtul containerului, height 66% din widthul imaginii
+BANNERE width 85% din widhtul containerului, height 33% din widthul imaginii
+video:-41% din widhtul containerului (media mare)
+	  -42% din widhtul containerului (media mediu)
+	  -50% din widhtul containerului (media mic)
+POZE SA NU FIE IN EM!!!
